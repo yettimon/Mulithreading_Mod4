@@ -4,7 +4,7 @@ package com.company;
  * Date: 24  June 2020
  * @author Stavnichuk Dmytro
  *
- * Classname LogsManager
+ * Classname Main
  *
  */
 

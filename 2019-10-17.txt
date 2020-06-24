@@ -1,0 +1,1 @@
+2019-10-17 19:15:00.158 ERROR 14959 --- [pool-1-thread-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task.
